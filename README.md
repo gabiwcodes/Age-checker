@@ -2,7 +2,7 @@
 A simple, short Python program that verifies club entry eligibility based on age.
 ----------
 # 🏋️ How it Works
--If you are above **<18+>** years old you will get accepted into Club Bizzare
+-If you are **<18+>** years old, you will get accepted into Club Bizzare
 
 -If you are **<14-17>**, you can enter the code Minority Club
 
